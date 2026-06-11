@@ -8,3 +8,5 @@ sayHello();
 
 
 console.log('Bu kod stage ga qushilishi kerak')
+
+console.log('Bahriddin')
