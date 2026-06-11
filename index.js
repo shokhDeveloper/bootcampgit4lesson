@@ -5,3 +5,6 @@ function sayHello(){
 }
 
 sayHello();
+
+
+console.log('Bu kod stage ga qushilishi kerak')
