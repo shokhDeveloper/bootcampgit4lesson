@@ -5,6 +5,5 @@ console.log('RUN')
 // A -> Added (Stage areaga olinganda ya'ni add qilganimizda)
 // R -> Renamed (Nomi tahrirlangan filening qayta add qilingan holati)
 
-console.log('Advanced git')
 
-console.log('Hello world')
+console.log("1-versiya")
