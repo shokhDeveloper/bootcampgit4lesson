@@ -6,3 +6,5 @@ console.log('RUN')
 // R -> Renamed (Nomi tahrirlangan filening qayta add qilingan holati)
 
 console.log('Advanced git')
+
+console.log('Hello world')
